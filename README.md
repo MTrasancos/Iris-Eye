@@ -1,6 +1,6 @@
 # Iris Eye 
 
-_This project aims, through an **artificial intelligence model** [link](https://github.com/LorenaDeveloper/Iris_Eye_Model), to help people with color blindness to recognize 11 pre-selected colors._
+_This project aims, through an **artificial intelligence model** [link](https://github.com/MTrasancos/Iris_Eye_Model), to help people with color blindness to recognize 11 pre-selected colors._
 
 # Table of contents
 * [Iris-Eye](#iris-eye)
@@ -33,7 +33,7 @@ It's part of _"III CURSO DE EXTENSIÓN UNIVERSITARIA SAMSUNG INNOVATION CAMPUS E
 
 Clone/Download repository
 ```sh
-https://github.com/LorenaDeveloper/Iris-Eye.git
+https://github.com/Mtrasancos/Iris-Eye.git
 ```
 
 To perform the deployment, I linked this repository with **Netlify**, which allows each new update to be reflected in the url   
@@ -58,4 +58,4 @@ https://user-images.githubusercontent.com/81416550/149738434-944d19d1-d850-4183-
 Proyect is : _Completed_
 
 # Contact
-Created by [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), fell free to contact me! In collaboration with [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
+Created by [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063)[@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), fell free to contact me! In collaboration with [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
