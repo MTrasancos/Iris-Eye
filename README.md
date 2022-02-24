@@ -37,7 +37,7 @@ https://github.com/Mtrasancos/Iris-Eye.git
 ```
 
 To perform the deployment, I linked this repository with **Netlify**, which allows each new update to be reflected in the url   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8746224c-aa24-4359-9f64-b34564494b1d/deploy-status)](https://app.netlify.com/sites/sharp-jang-a75039/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8746224c-aa24-4359-9f64-b34564494b1d/deploy-status)](https://app.netlify.com/sites/iriseye/deploys)
 
 # Usage
 You can use it in this [link](https://iriseye.netlify.app/)
