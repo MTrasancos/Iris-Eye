@@ -44,7 +44,7 @@ You can use it in this [link](https://iriseye.netlify.app/)
 
 Or through this qr code
 
-<img src="./images/qr-irisEye.png" height="200" title="Screenshot">
+<img src="./images/qr-irisEye2.png" height="200" title="Screenshot">
 
 through on/off buttons you can enable/disable access to the camera. 
 
