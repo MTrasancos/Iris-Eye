@@ -58,4 +58,4 @@ https://user-images.githubusercontent.com/81416550/149738434-944d19d1-d850-4183-
 Proyect is : _Completed_
 
 # Contact
-Created by [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063), fell free to contact me! In collaboration with [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
+Created by [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063), fell free to contact me! In collaboration with [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
